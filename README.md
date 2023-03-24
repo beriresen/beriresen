@@ -24,10 +24,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 - 📫 Reach Me **senberire@gmail.com**
 - 
 ![snake gif](https://github.com/beriresen/beriresen/blob/output/github-contribution-grid-snake.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/)
