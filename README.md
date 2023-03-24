@@ -23,7 +23,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 - 🌿 I'm working on MVVM.
 - 📫 Reach Me **senberire@gmail.com**
 - 
-![snake gif] (https://github.com/{{beriresen}}/{{beriresen}}/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/beriresen/beriresen/blob/output/github-contribution-grid-snake.gif)
 
 ## Contact
 
