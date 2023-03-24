@@ -27,7 +27,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.gif" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-contribution-grid-snake.gif" src="github-contribution-grid-snake.gif.svg" />
 </picture>
 ## Contact
 
