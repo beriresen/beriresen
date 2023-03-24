@@ -52,4 +52,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          NEW_TOKEN: ${{ secrets.NEW_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.NEW_TOKEN }}
