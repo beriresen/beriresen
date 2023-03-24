@@ -21,7 +21,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 - 🤖 I'm currently learning Swift and iOS Development
 - 🌿 I'm working on MVVM.
-- 📫 Reach Me senberire@gmail.com* 
+- 📫 Reach Me **senberire@gmail.com**
 
 
 ## Contact
