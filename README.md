@@ -28,9 +28,8 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 - [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/)
 
-
 <p align="center">
-      <img height="180em"" src="https://github-readme-stats.vercel.app/api?username=beriresen&theme=chartreuse-dark&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beriresen&theme=rose_pine&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beriresen&layout=compact&langs_count=8&theme=rose_pine"/>
 </p>
 
