@@ -29,11 +29,6 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 - [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beriresen&theme=chartreuse-dark&show_icons=true&count_private=true)"/>
