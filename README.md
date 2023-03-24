@@ -15,6 +15,20 @@ I believe that I have taken one of the important steps in my career with Swift a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%22Hello%2C+World!%22;I'm+Berire..;I'm+jr.+iOS+Developer)](https://git.io/typing-svg)
+
+## About Me
+![visitors](https://visitor-badge.glitch.me/badge?page_id=beriresen.visitor-badge)
+
+- 🤖 I'm currently learning Swift and iOS Development
+- 🌿 I'm working on MVVM.
+- 📫 Reach Me **senberire@gmail.com* 
+
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/)
+
 
 
 <p align="center">
