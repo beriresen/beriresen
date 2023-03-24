@@ -25,7 +25,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 - 
 ![snake gif](https://github.com/beriresen/beriresen/blob/output/github-contribution-grid-snake.gif)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 ## Contact
