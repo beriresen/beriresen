@@ -35,4 +35,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          VITRIN_TOKEN: ${{ secrets.VITRIN_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.VITRIN_TOKEN }}
