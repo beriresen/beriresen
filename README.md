@@ -35,3 +35,9 @@ I believe that I have taken one of the important steps in my career with Swift a
 </p>
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beriresen&show_icons=true&locale=en&layout=compact" alt="beriresen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beriresen&show_icons=true&locale=en" alt="beriresen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beriresen&" alt="beriresen" /></p>
