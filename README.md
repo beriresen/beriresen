@@ -30,6 +30,8 @@ I believe that I have taken one of the important steps in my career with Swift a
 - [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/) <p align="left">
 <a href="https://linkedin.com/in/beriresenayvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beriresenayvaz" height="30" width="40" /></a>
 
+<h3 align="left">Languages and Tools:</h3>
+
 </p>
 <p align="left">  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 <p align="center">
