@@ -32,7 +32,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 <h3 align="left">Languages and Tools:</h3>
 
-- </p>
+</p>
 <p align="left">  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beriresen&theme=rose_pine&show_icons=true&count_private=true)"/>
