@@ -27,8 +27,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/)
-- <p align="left">
+- [LinkedIn](https://www.linkedin.com/in/beriresenayvaz/) <p align="left">
 <a href="https://linkedin.com/in/beriresenayvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliamanvermez" height="30" width="40" /></a>
 
 </p>
