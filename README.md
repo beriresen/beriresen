@@ -19,7 +19,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 ## About Me
 
 - 🤖 Currently, I am learning iOS Development with Swift, SnapKit, Firebase, MVVM on my TrendAvm project.
-- 🌿 I'm working on ## TrendAvm.
+- 🌿 I'm working on TrendAvm.
 - 📫 Reach Me **senberire@gmail.com**
 
 ![snake gif](https://github.com/beriresen/beriresen/blob/output/github-contribution-grid-snake.gif)
