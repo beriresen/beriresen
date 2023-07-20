@@ -18,7 +18,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 
 ## About Me
 
-- 🤖 Currently, I am learning iOS Development with Swift, SnapKit, Firebase, MVVM on my TrendAvm project.
+- 🤖 Currently, I am working as an ios developer at Eteration Bilişim Çözümleri.
 - 🌿 I'm working on TrendAvm.
 - 📫 Reach Me **senberire@gmail.com**
 
