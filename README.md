@@ -19,7 +19,6 @@ I believe that I have taken one of the important steps in my career with Swift a
 ## About Me
 
 - 🤖 Currently, I am working as an ios developer at Eteration Bilişim Çözümleri.
-- 🌿 I'm working on SDK.
 - 📫 Reach Me **senberire@gmail.com**
 
 
