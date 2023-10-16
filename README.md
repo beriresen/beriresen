@@ -14,7 +14,7 @@ I believe that I have taken one of the important steps in my career with Swift a
 - 📫 How to reach me: senberire@gmail.com
 
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%22Hello%2C+World!%22;I'm+Berire..;I'm+Jr.+iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%22Hello%2C+World!%22;I'm+Berire..;I'm+iOS+Developer)](https://git.io/typing-svg)
 
 ## About Me
 
